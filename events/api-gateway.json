@@ -1,0 +1,13 @@
+{
+  "httpMethod": "GET",
+  "pathParameters": {
+    "key1": "p1",
+    "key2": "p2",
+    "key3": "p3"
+  },
+  "queryStringParameters": {
+    "key1": "q1",
+    "key2": "q2",
+    "key3": "q3"
+  }
+}

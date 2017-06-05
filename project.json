@@ -1,0 +1,13 @@
+{
+  "name": "apex-typescript-example",
+  "description": "Apex TypeScript example",
+  "memory": 128,
+  "timeout": 5,
+  "runtime": "nodejs6.10",
+  "environment": {},
+  "handler": "dist.default",
+  "hooks": {
+    "build": "../../node_modules/.bin/webpack --config ../../build/webpack.config.js --bail",
+    "clean": "rm -fr dist"
+  }
+}
