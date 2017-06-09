@@ -3,7 +3,7 @@
 ## Setup
 
 To run the example first setup your [AWS credentials](http://apex.run/#aws-credentials).
-You also needs to install [apex](http://apex.run/#installation) and [Terraform](https://www.terraform.io/intro/getting-started/install.html) cli.
+You also need to install [apex](http://apex.run/#installation) and [Terraform](https://www.terraform.io/intro/getting-started/install.html) cli.
 
 ## Installation
 
