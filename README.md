@@ -16,7 +16,7 @@ $ apex infra apply # creating api gateway
 ```
 
 ## Invoke functions
-You can test your AWS Lambda function using [apex cli](http://apex.run/#invoking-functions)
+You can test your lambda function using [apex cli](http://apex.run/#invoking-functions)
 
 ```bash
 $ apex invoke lambda_with_api_gateway_event < ./events/api-gateway.json
