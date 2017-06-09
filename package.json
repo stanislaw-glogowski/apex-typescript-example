@@ -17,7 +17,7 @@
     "lint": "tslint --exclude node_modules **/*.ts"
   },
   "dependencies": {
-    "apex-utils": "^0.0.1"
+    "apex-utils": "^0.0.2"
   },
   "devDependencies": {
     "@types/jest": "^19.2.4",
