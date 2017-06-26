@@ -2,7 +2,7 @@ import { resolve } from "path";
 import * as Webpack from "webpack";
 import { CheckerPlugin } from "awesome-typescript-loader";
 
-export = {
+const config: Webpack.Configuration = {
   entry: "./index.ts",
   target: "node",
   output: {
